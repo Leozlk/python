@@ -5,7 +5,6 @@
 
 Criado por **Leonardo Rodrigues Silva** - 2016
 
-###### Meu [site](http://cyberpunk.in)
-###### Meu [Facebook](http://facebook.com/leozlk)
+Meu [Site](http://cyberpunk.in), [Facebook](http://facebook.com/leozlk).
 ###### Site oficial [Python](https://www.python.org/) para download e execução dos scripts.
 
